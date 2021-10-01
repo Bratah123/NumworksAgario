@@ -1,2 +1,2 @@
 # NumworksAgario
-A small agario clone for numworks epsilon calculator
+A small python script that is an agario clone for numworks epsilon calculator
